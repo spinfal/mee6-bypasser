@@ -2,6 +2,9 @@
 ![](https://img.shields.io/github/repo-size/Darkempire78/Mee6-Bypasser?style=for-the-badge)
 ![](https://img.shields.io/badge/SOURCERY-ENABLED-green?style=for-the-badge)
 
+# Original newer version
+[It can be found here](https://github.com/JDiscordBots/Mee6-bypasser)
+
 # Mee6 Bypasser Discord Bot (free premium level-role)
 
 Mee6 Bypasser is a Discord Bot that allows you to use premium mee6 level role rewards. This bot use the Mee6's level system.
