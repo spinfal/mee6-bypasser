@@ -50,7 +50,7 @@ The bot does only work if the Mee6's leaderboard is public.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome [here](https://github.com/JDiscordBots/Mee6-bypasser).
 
 Please make sure to update tests as appropriate.
 
